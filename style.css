@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #2a9d8f;
+    background-color: #02010a;
     text-align: center;
 }
 
@@ -31,21 +31,22 @@ body{
     border-radius: 0rem;
     border: none;
     box-shadow: 0 0 3rem rgba(0, 0, 0, 0.3);
-    background-color: #e9c46a;
+    background-color: #006466;
     font-size: 8vmin;
     border-radius: 1rem;
-    color: #000;
+    color: #550c18;
 }
 
 #reset{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #e76f51;
+    background-color: #848586;
     border-radius: 0.5rem;
     border: 0.01rem solid black;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     width: 25vmin;
     font-weight: 600;
+    color: #0c0f0a;
 }
 
 #new-game{
@@ -74,7 +75,7 @@ body{
 }
 
 h1{
-    color: #550c18;
+    color: #d8572a;
     font-size: 8vmin;
 }
 
