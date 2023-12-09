@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    height: 70vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,30 +39,15 @@ body{
 
 #reset{
     padding: 1rem;
-    font-size: 1.25rem;
+    font-size: 4vmin;
     background-color: #848586;
     border-radius: 0.5rem;
     border: 0.01rem solid black;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-    width: 25vmin;
+    width: auto;
     font-weight: 600;
     color: #0c0f0a;
-}
-
-#new-game{
-    padding: 1rem;
-    font-size: 1.25rem;
-    background-color: #e76f51;
-    border-radius: 0.5rem;
-    border: 0.01rem solid black;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
-    width: 25vmin;
-    color: black;
-    font-weight: 600;
-}
-
-.new-game-div{
-    display: inline-block;
+    margin-top: 3vmin;
 }
 
 #msg{
@@ -71,14 +56,41 @@ body{
 }
 
 .msg-container{
-    height: 10vmin;
+    height: auto;
 }
 
 h1{
+    width: 100vw;
     color: #d8572a;
     font-size: 8vmin;
+    margin-top: 2vmin;
+    margin-bottom: 1vmin;
 }
 
 .hide{
     display: none;
 }
+
+.mode{
+    text-align: left;
+    height: 8vmin;
+    width: 8vmin;
+}
+
+.mode img{
+    margin-top: 0.5vmin;
+    height: 6vmin;
+    width: 6vmin;
+    position: absolute;
+    left: 0.5vmin;
+    object-fit: cover;
+}
+
+.head-container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
