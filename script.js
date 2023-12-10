@@ -94,7 +94,6 @@ const showDraw = () => {
     disableBoxes();
 };
 
-
 const showWinner = (winner) => {
     msg.innerText = `Congratulations! Winner is ${winner}.`;
     resetBtn.innerText = "New Game";
