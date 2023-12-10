@@ -37,7 +37,7 @@ This is a simple frontend project of the classic Tic-Tac-Toe game. It comes with
 
 ### Screenshots
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/gameMobile.jpg" alt="gamePC" width="160" height="300">
+  <img src="images/gameMobile.jpg" alt="gamePC" width="140" height="300">
   <img style="margin-right: 50px;">
   <img src="images/O-win.PNG" alt="O wins" width="450" height="300">
 </div>
