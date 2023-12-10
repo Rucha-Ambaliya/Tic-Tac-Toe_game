@@ -49,6 +49,9 @@ modeImg.addEventListener("click", () => {
 });
 
 const resetGame = () => {
+    if (isWinner) {
+        isWinner = false;
+    }
     turn = 0;
     turnO = true;
     enableBoxes();
