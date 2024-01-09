@@ -26,13 +26,20 @@ This is a simple frontend project of the classic Tic-Tac-Toe game. It comes with
 - Open `index.html` in your web browser.
 - Enjoy playing Tic-Tac-Toe!
 
-### Link
+## Links
 
+- To visit the website:
+
+  https://rucha-ambaliya.github.io/Tic-Tac-Toe_game/
+
+## How to Contribute
+
+- If you'd like to contribute to the project or report issues, feel free to fork the repository and submit pull requests.
+  - Clone the repository to your local machine.
+  - Open `index.html` in your web browser to test.
 - To clone the repository:
-
    ```bash
-   https://github.com/Rucha-Ambaliya/Tic-Tac-Toe_game.git
-
+    https://github.com/Rucha-Ambaliya/Tic-Tac-Toe_game.git
 - Feel free to fork this project and make your own improvements! If you have any questions or suggestions, don't hesitate to reach out.
 
 ### Screenshots
